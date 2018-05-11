@@ -45,6 +45,7 @@ int main(void)
 		std::cout << ptocar[i].year << " " << ptocar[i].make << std::endl;
 	};	
 
+	delete [] ptocar;
 
 	return 0;
 };
