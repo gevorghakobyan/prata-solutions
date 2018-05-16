@@ -1,4 +1,6 @@
-/*Do Programming Exercise 6 but modify it to get information from a file.The first
+/*Code to be run with c++11
+
+Do Programming Exercise 6 but modify it to get information from a file.The first
 item in the file should be the number of contributors, and the rest of the file should
 consist of pairs of lines, with the first line of each pair being a contributor’s name
 and the second line being a contribution.That is, the file should look like this:
