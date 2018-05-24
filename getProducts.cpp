@@ -39,4 +39,7 @@ void getProducts(int array[], int array2[], int size)
 		std::cout << array2[i] << " ";
 	};
 };
+<<<<<<< HEAD
 
+=======
+>>>>>>> f0895c555ff340cd828e9c2259c56f0ae526cba8
